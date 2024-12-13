@@ -5,24 +5,24 @@
 
 ## Languages and Tools: 💻 
 
-- **Programming Languages**: <br> <br>
+- **Programming Languages**: 
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
   
-- **Web**:<br> <br>
+- **Web**:
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
   
-- **Frameworks**: <br> <br>
+- **Frameworks**: 
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) 
-- **Databases**: <br>
+- **Databases**:
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
   ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
   
-- **Tools**: <br> <br>
+- **Tools**:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
