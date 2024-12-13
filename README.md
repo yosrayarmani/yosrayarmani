@@ -42,14 +42,15 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/> </a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Notion_logo_2021.svg" alt="notion" width="40" height="40"/> </a>
 </p>
 
 ## Contact Me
 
 🤝 Feel free to reach out to me if you want to collaborate on any project or have questions!
 
-- 📧 Email: yarmaniyosra@gmail.com
+<a href="mailto:[your-email]">
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
 <p align="left">
 <a href="https://linkedin.com/in/yosrayarmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosrayarmani" height="30" width="40" /></a>
 </p>
