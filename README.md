@@ -52,8 +52,5 @@
   <a href="mailto:yarmaniyosra@gmail.com">
     <img align="center" src="https://raw.githubusercontent.com/yosrayarmani/yosrayarmani/main/icons/Gmail.gif" width="100"/>
   </a>
-  <a href="https://linkedin.com/in/yosrayarmani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosrayarmani" height="30" width="40" />
-  </a>
 </p>
 
