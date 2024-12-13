@@ -48,9 +48,9 @@
 
 🤝 Feel free to reach out to me if you want to collaborate on any project or have questions!
 
-<a href="mailto:[your-email]">
+<p align="left">
+  <a href="mailto:[your-email]">
       <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
     </a>
-<p align="left">
 <a href="https://linkedin.com/in/yosrayarmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosrayarmani" height="30" width="40" /></a>
 </p>
