@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yosra Yarmani
 
-👩‍🎓 I'm a Computer Science student at Higher Institute of Computer Science.
+👩‍🎓 I'm a Computer Science student at Higher Institute of Computer Science, University of Tunis El Manar.
 
 
 ## Languages and Tools: 💻 
